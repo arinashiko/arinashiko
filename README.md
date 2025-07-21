@@ -1,9 +1,10 @@
 ## Привет, я Арина 👋
 
 Занимаюсь аналитикой данных
+
 Люблю раскладывать жизнь по полочкам, а проекты по папочками 😄
 
-🔭 Tools: Python, pandas, numpy
+🔭 Tools: Python, SQL, Apache Airflow, Yandex Datalense, Tableau
 
 🚀 Courses and Certificates: Karpov.courses (2025)
 
