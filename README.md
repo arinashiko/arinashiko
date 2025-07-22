@@ -1,29 +1,35 @@
-## Привет, я Арина 👋
+## Hi there, I'm a data analyst Arina 😄
 
-Занимаюсь аналитикой данных
+### About me: 
+I conducted my first significant project in data science when I took part in an internship at Huazhong University of Science and Technology (China). I worked on a project devoted to battery SOH prediction. [This project](https://github.com/arinashiko/SOH-prediction-using-ML) includes a data processing pipeline and an ML model for SOH prediction.
 
-Люблю раскладывать жизнь по полочкам, а проекты по папочкам 😄
+My growing interest in data processing led me to start a course on data analysis, so that I learnt SQL and dived into Python and math statistics. See the completed [study cases on data analysis](https://github.com/arinashiko/Data-Analysis-Course) that represent my skills.
 
-🔭 Tools: Python, SQL, Apache Airflow, Yandex Datalense, Tableau
+I still keen on improving my skills by conducting [pet-projects](https://github.com/arinashiko/Data_analysis_pet_projects), where you can find out product analysis cases also.
 
-🚀 Courses and Certificates: Karpov.courses (2025)
+### Tools: 
+![Python](images/python-logo.svg) ![Pandas](images/pandas-logo.svg) ![NumPy](images/numpy-logo.svg) ![SciPy](images/scipy-logo.svg) ![SQL](images/sql-logo.svg) ![PostgreSQL](images/postgresql-logo.svg) ![Apache Airflow](images/apache-airflow-logo.svg) ![Redash](images/redash-logo.svg) ![JupyterHub Notebook](images/jupyterhub-logo.svg) ![Tableau](images/tableau-logo.svg)
 
-💡 My projects:
+### Contact me:
+[![Telegram](images/telegram-logo.svg)](https:\\t.me/arinashiko)   [![Gmail](images/gmail-logo.svg)](mailto:arbyzina99@gmail.com)
 
+### Check out my projects after README section ⤵️:
 
-<!--
-**arinashiko/arinashiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+## Привет, я аналитик данных Арина 😄
 
+### Обо мне:
+Свой первый значимый проект по анализу данных я выполнила во время стажировки в китайском университете HUST, когда работала над задачей прогнозирования степени износа аккумуляторной батареи. [В этом проекте](https://github.com/arinashiko/SOH-prediction-using-ML) я разработала пайплайн обработки данных и предсказала интересующий параметр с помощью модели МО.
 
-Here are some ideas to get you started:
+Мой возросший интерес к задачам, связанными с обработкой данных, привел меня к тому, что я поступила на курс "Аналитик данных" и изучила SQL, углубила знания Python и математической статистики. В [проектах по курсу анализа данных](https://github.com/arinashiko/Data-Analysis-Course) собраны показательные кейсы, которые я решила.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я продолжаю оттачивать свои навыки на собственных [пет-проектах](https://github.com/arinashiko/Data_analysis_pet_projects), среди которых представлены проекты и по продуктовому анализу.
+
+### Инструменты: 
+![Python](images/python-logo.svg) ![Pandas](images/pandas-logo.svg) ![NumPy](images/numpy-logo.svg) ![SciPy](images/scipy-logo.svg) ![SQL](images/sql-logo.svg) ![PostgreSQL](images/postgresql-logo.svg) ![Apache Airflow](images/apache-airflow-logo.svg) ![Redash](images/redash-logo.svg) ![JupyterHub Notebook](images/jupyterhub-logo.svg) ![Tableau](images/tableau-logo.svg)
+
+### Контакты для связи: 
+[![Telegram](images/telegram-logo.svg)](https:\\t.me/arinashiko)   [![Gmail](images/gmail-logo.svg)](mailto:arbyzina99@gmail.com)
+
+### Мои проекты ⤵️:
